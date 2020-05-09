@@ -1,6 +1,6 @@
 import React ,{Component} from "react";
 
-class AddTodo extends Component{
+class AddTodo extends Component {
     state = {
         content:''
     }
@@ -18,7 +18,7 @@ class AddTodo extends Component{
             <div>
                 <form onSubmit={this.handleSubmit}>
                     <label>Ajouter un todo:</label>
-                    <input type="text" onChange={this.handleChange}/>
+                    <input type="text" disabled={!this.props.canAddTodo()} onChange={this.handleChange} value={this.state.content}/>
                 </form>
             </div>
         )

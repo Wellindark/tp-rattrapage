@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d613708c-e5c5-4572-b311-012d725365b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/addTodo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/premium.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todoClass.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/addTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/addTodo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/todoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/todoList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +26,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2082" />
-    <option name="y" value="-29" />
-    <option name="width" value="1920" />
-    <option name="height" value="1053" />
-  </component>
   <component name="ProjectId" id="1bfaLvEKCp1Gh6fBpR9YpwtX5aB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,6 +42,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Users\John\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-1\201.7223.93\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -96,5 +95,13 @@
       <screen x="1920" y="-6" width="1920" height="1040" />
     </state>
     <state width="1899" height="281" key="GridCell.Tab.0.right/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1589027698208" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1589044375633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589044375633" />
+    <state x="2543" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1589032522504">
+      <screen x="1920" y="-6" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="219" width="672" height="678" key="search.everywhere.popup/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1589032522504" />
   </component>
 </project>
