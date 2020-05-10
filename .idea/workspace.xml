@@ -5,9 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/addTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/addTodo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/premium.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/premium.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/todoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todoClass.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +24,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bfaLvEKCp1Gh6fBpR9YpwtX5aB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -77,26 +80,29 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1589117926552">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1589125104477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589117926552" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589125104477" />
     <state width="1899" height="281" key="GridCell.Tab.0.bottom/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1589027698208" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1589117926551">
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1589125104477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589117926551" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589125104477" />
     <state width="1899" height="281" key="GridCell.Tab.0.center/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1589027698208" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1589117926551">
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1589125104477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589117926551" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589125104477" />
     <state width="1899" height="281" key="GridCell.Tab.0.left/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1589027698208" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1589117926552">
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1589125104477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589117926552" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589125104477" />
     <state width="1899" height="281" key="GridCell.Tab.0.right/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1589027698208" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1589044375633">
       <screen x="0" y="0" width="1920" height="1040" />
