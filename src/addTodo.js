@@ -1,12 +1,15 @@
 import React ,{Component} from "react";
+import {Checkbox} from "react-materialize";
 
 class AddTodo extends Component {
     state = {
-        content:''
+        content:'',
+        isDone: false
     }
     handleChange=(e)=>{
         this.setState({
-            content: e.target.value
+            content: e.target.value,
+            isDone: false
         })
     }
     handleSubmit = (e)=>{

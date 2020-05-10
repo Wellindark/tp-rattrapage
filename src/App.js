@@ -19,7 +19,7 @@ export default function App() {
         <Switch>
             <Route exact path={"/"}><Login setIsLog={setIsLog} isLog={isLog}/></Route>
             <Route exact path={"/todoList"}><TodoList isLog={isLog} isPremium={isPremium} todos={todos} setTodos={setTodos}/></Route>
-            <Route exact path={"/premium"}><Premium isLog={isLog} isPremium={isPremium} setIsPremium={setIsPremium}/></Route>
+            <Route exact path={"/premium"}><Premium isLog={isLog} isPremium={isPremium} setIsPremium={setIsPremium} todos={todos}/></Route>
         </Switch>
       </Router>
     </div>

@@ -11,7 +11,8 @@ class todoList extends Component{
     addTodo =(todo) => {
         todo.id = Math.random();
         let todos = [...this.state.todos, todo]
-        this.setState({todos: todos}, () => localStorage.setItem('todos',JSON.stringify(todos)))
+        this.setState({todos: todos}, () => localStorage.setItem('todos',JSON.stringify(todos)));
+        console.dir(todos);
     }
 
     canAddTodo = () => {
@@ -27,6 +28,7 @@ class todoList extends Component{
                 <h1 className="center blue-text">Todo's</h1>
                 <Todo todos={this.state.todos}/>
                 <AddTodo addTodo={this.addTodo} canAddTodo={this.canAddTodo}/>
+
             </div>
         );
     }

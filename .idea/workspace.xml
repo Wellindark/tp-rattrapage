@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d613708c-e5c5-4572-b311-012d725365b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/premium.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/todoClass.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/addTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/addTodo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/premium.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/premium.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/todoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/todoList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589023977046</updated>
       <workItem from="1589023978228" duration="1563000" />
+      <workItem from="1589110434123" duration="5323000" />
     </task>
     <servers />
   </component>
@@ -79,21 +78,25 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1589027698208">
-      <screen x="1920" y="-6" width="1920" height="1040" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1589117926552">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589117926552" />
     <state width="1899" height="281" key="GridCell.Tab.0.bottom/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1589027698208" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1589027698208">
-      <screen x="1920" y="-6" width="1920" height="1040" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1589117926551">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.center/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589117926551" />
     <state width="1899" height="281" key="GridCell.Tab.0.center/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1589027698208" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1589027698208">
-      <screen x="1920" y="-6" width="1920" height="1040" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1589117926551">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.left/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589117926551" />
     <state width="1899" height="281" key="GridCell.Tab.0.left/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1589027698208" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1589027698208">
-      <screen x="1920" y="-6" width="1920" height="1040" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1589117926552">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.right/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589117926552" />
     <state width="1899" height="281" key="GridCell.Tab.0.right/1920.-6.1920.1040/0.0.1920.1040@1920.-6.1920.1040" timestamp="1589027698208" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1589044375633">
       <screen x="0" y="0" width="1920" height="1040" />
