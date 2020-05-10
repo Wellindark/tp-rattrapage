@@ -14,3 +14,8 @@ Objectifs :
 - Code bien nommé : OK
 - (optionnel) déployé Github Pages : NOT OK 
 - Respect des états/props : OK
+
+Pour lancer l'application:
+
+-npm install
+-npm run start
